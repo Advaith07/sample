@@ -1,6 +1,2 @@
 this is my second file
 adding more content to file 2
-
-one line adding to master
-
-advaith
